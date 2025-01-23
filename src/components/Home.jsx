@@ -8,7 +8,7 @@ const Home = () => {
       <div className='form'>
         <BiSolidPaperPlane style={{ height: "58px", width: "54px" }} />
         <h1>SUSCRIBE</h1>
-        <input type="text" placeholder='Enter your mail' />
+        <input type="text" placeholder='Enter your email' />
         <button>SUSCRIBE</button>
       </div>
     </div>
